@@ -3,7 +3,7 @@
 A beginner-friendly Python project that demonstrates **Git branching, feature development, and merging** workflows using a small "Learning Platform" application.
 
 - **Repository:** https://github.com/rajgenai4u/Branching_Feature_Development_oops_git_project
-- **Author:** Karre Rajesh (rajsai4us@gmail.com)
+- **Author:** Karre Rajesh (rajgenai4u@gmail.com)
 - **Date of operations:** 23 September 2026
 - **Working directory:** `Branching_and_Feature_Development/`
 
